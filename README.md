@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Daniil360/daniil360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Привет, я занимаюсь Frontend разработкой
+##👋 Привет, я занимаюсь Frontend разработкой
 
 Как со мной связаться: daniil424342@gmail.com
 
